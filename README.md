@@ -1,12 +1,12 @@
 <div align="center">
 
 # 👋 Hi, I'm Om Bhardwaj
-## A Passionate Fullstack Developer
+#### A Passionate Fullstack Developer crafting sleek, fullstack solutions with a passion for code and design.
 <img src="https://komarev.com/ghpvc/?username=ombhardwajj&label=Profile%20Views&color=00b4b4&style=flat" alt="ombhardwajj" />
 
 </div>
 
-Crafting sleek, fullstack solutions with a passion for code and design.
+
 
 - 🔭 I’m currently working on [Avni Project](http://github.com/avniproject/)
 
