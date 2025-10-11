@@ -24,7 +24,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com) [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/) [<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>](https://graphql.org)   [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>](https://www.rust-lang.org) 
 
 ## GitHub Stats
-[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ombhardwajj&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ombhardwajj" />](https://github.com/ombhardwajj)
+
 
 &nbsp;[<img align="center" src="https://github-readme-stats.vercel.app/api?username=ombhardwajj&show_icons=true&locale=en&theme=dracula" alt="ombhardwajj" />](https://github.com/ombhardwajj)
 
