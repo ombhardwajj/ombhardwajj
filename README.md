@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Om Bhardwaj
+# Hello, I'm Om Bhardwaj
 #### A Passionate Fullstack Developer crafting sleek, fullstack solutions with a passion for code and design.
 <img src="https://komarev.com/ghpvc/?username=ombhardwajj&label=Profile%20Views&color=00b4b4&style=flat" alt="ombhardwajj" />
 
@@ -9,9 +9,6 @@
 
 
 - 🔭 I’m currently working on [Avni Project](http://github.com/avniproject/)
-
-## Connect with Me
-[<img align="center" src="https://www.vectorlogo.zone/logos/x/x-ar21~bgwhite.svg" alt="ombhardwajj" height="30" width="40" />](https://x.com/ombhardwajj) [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ombhardwaj" height="30" width="40" />](https://www.linkedin.com/in/ombhardwaj/) [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="om-bhardwaj" height="30" width="40" />](https://stackoverflow.com/users/20247425/om-bhardwaj)
 
 ## Languages and Tools
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com)
